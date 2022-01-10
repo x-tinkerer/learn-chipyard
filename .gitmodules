@@ -1,0 +1,3 @@
+[submodule "chisel-bootcamp"]
+	path = chisel-bootcamp
+	url = https://github.com/freechipsproject/chisel-bootcamp.git
