@@ -1,9 +1,12 @@
 [submodule "chisel-bootcamp"]
-	path = chisel-bootcamp
+	path = 01_chisel-bootcamp
 	url = https://github.com/freechipsproject/chisel-bootcamp.git
 [submodule "rocket-chip"]
-	path = rocket-chip
+	path = 03_rocket-chip
 	url = https://github.com/chipsalliance/rocket-chip
 [submodule "chipyard"]
-	path = chipyard
+	path = 04_chipyard
 	url = https://github.com/ucb-bar/chipyard.git
+[submodule "chisel-tutorial"]
+	path = 02_chisel-tutorial
+	url = https://github.com/ucb-bar/chisel-tutorial.git
